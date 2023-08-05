@@ -1,5 +1,5 @@
-" https://github.com/NeuralNine/config-files/blob/master/init.vim
-" plugged folder is at '/Users/dikshantdikshant/.local/share/nvim/plugged'
+
+" plugged folder is at '/Users/<username>/.local/share/nvim/plugged'
 
 
 :set number
